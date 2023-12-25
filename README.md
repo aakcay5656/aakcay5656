@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakcay5656&label=Profile%20views&color=0e75b6&style=flat" alt="aakcay5656" /> </p>
 
-- 🌱 I’m currently learning **flutter,go,android**
+
 
 - 📫 How to reach me **aakcay5656@gmail.com**
 
