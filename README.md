@@ -3,7 +3,7 @@
 <h3 align="center">i am a studying at karadeniz technical university</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakcay5656&label=Profile%20views&color=0e75b6&style=flat" alt="aakcay5656" /> </p>
+<p align="left">  </p>
 
 
 
